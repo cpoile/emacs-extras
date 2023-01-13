@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cpoile.emacsextras.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cpoile.emacsextras.MyBundle
 
 class MyApplicationService {
 
